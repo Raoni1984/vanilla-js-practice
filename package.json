@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/Raoni1984/vanilla-js-practice/issues"
   },
-  "homepage": "https://github.com/Raoni1984/vanilla-js-practice#readme"
+  "homepage": "https://github.com/Raoni1984/vanilla-js-practice#readme",
+  "type": "module"
 }
