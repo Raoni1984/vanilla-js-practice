@@ -1,0 +1,22 @@
+{
+  "name": "js-orientacao-objetos",
+  "version": "1.0.0",
+  "description": "simple vanilla JS practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raoni1984/vanilla-js-practice.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Raoni Souza Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raoni1984/vanilla-js-practice/issues"
+  },
+  "homepage": "https://github.com/Raoni1984/vanilla-js-practice#readme"
+}
