@@ -1,3 +1,4 @@
+import { ContaCorrente } from "./ContaCorrente.js";
 export class Cliente {
   nome;
   cpf;
@@ -6,5 +7,6 @@ export class Cliente {
   constructor(nome, cpf) {
     this.nome = nome;
     this.cpf = cpf;
+    this.contaCorrente = new ContaCorrente();
   }
 }
